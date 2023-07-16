@@ -21,7 +21,7 @@
 import json
 
 
-TOKEN=config.get("token")
+TOKEN=getenv("token", "6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw")
 WORKERS=config.get("workers", 32)
 ADMIN_LIST = config.get("admin_list", None)
 OPEN_LOBBY = config.get("open_lobby", True)
