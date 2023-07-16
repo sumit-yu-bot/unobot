@@ -19,7 +19,7 @@
 
 
 import os
-from os import jons
+from os import json
 
 
 TOKEN = config.get("token", "6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw")
