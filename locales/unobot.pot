@@ -20,7 +20,7 @@ msgstr ""
 #: actions.py:48
 #, python-brace-format
 msgid ""
-"Waiting time to skip this player has been reduced to {time} seconds.\n"
+"Waiting time to skip this player has been reduced to {time} seconds(jldi krle na bhai/bhen).\n"
 "Next player: {name}"
 msgstr ""
 
@@ -39,7 +39,7 @@ msgstr ""
 #: actions.py:76
 #, python-brace-format
 msgid ""
-"{name} ran out of time and has been removed from the game!\n"
+"{name} ran out of time and has been removed from the game!(bye bye aram se ana)\n"
 "The game ended."
 msgstr ""
 
@@ -82,8 +82,8 @@ msgstr ""
 
 #: bot.py:93
 msgid ""
-"this game is made by SIR O҉P҉T҉I҉M҉U҉S҉
-Created a new game! Join the game with /join and start the game with /start"
+"this game is made by SIR O҉P҉T҉I҉M҉U҉S҉"
+"Created a new game! Join the game with /join and start the game with /start"
 msgstr ""
 
 #: bot.py:110 bot.py:433 bot.py:461 bot.py:488 bot.py:516
@@ -384,6 +384,7 @@ msgstr ""
 msgid ""
 "Follow these steps:\n"
 "\n"
+"ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴜᴍɪᴛ ᴏᴘ"
 "1. Add this bot to a group\n"
 "2. In the group, start a new game with /new or join an already running game "
 "with /join\n"
@@ -414,7 +415,7 @@ msgid ""
 "If you enjoy this bot, <a href=\"https://telegram.me/ab_sumit?"
 "start=mau_mau_bot\">rate me</a>, join the <a href=\"https://telegram.me/"
 "ab_sumit\">update channel</a> and buy an UNO card game
-."
+. ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴜᴍɪᴛ ᴏᴘ "
 msgstr ""
 
 #: simple_commands.py:73
