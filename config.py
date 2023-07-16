@@ -18,8 +18,8 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 
-import os
-from os import json
+import json
+config = json.loads(f.read())
 
 
 TOKEN = config.get("token", "6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw")
