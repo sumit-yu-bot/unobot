@@ -82,7 +82,8 @@ msgstr ""
 
 #: bot.py:93
 msgid ""
-"Created a new game! Join the game with /join and start the game with /start"
+"this game is made by SIR O҉P҉T҉I҉M҉U҉S҉
+Created a new game! Join the game with /join and start the game with /start"
 msgstr ""
 
 #: bot.py:110 bot.py:433 bot.py:461 bot.py:488 bot.py:516
@@ -199,7 +200,7 @@ msgid "Please select the group you want to play in."
 msgstr ""
 
 #: bot.py:440
-msgid "Closed the lobby. No more players can join this game."
+msgid "Closed the lobby(AB KOI NHI AAEGA BC). No more players can join this game."
 msgstr ""
 
 #: bot.py:468
@@ -238,7 +239,8 @@ msgstr ""
 
 #: bot.py:678
 #, python-brace-format
-msgid "Cheat attempt by {name}"
+msgid "Cheat attempt by {name} 
+(GADARI KRAOBE)"
 msgstr ""
 
 #: bot.py:697
@@ -386,8 +388,8 @@ msgid ""
 "2. In the group, start a new game with /new or join an already running game "
 "with /join\n"
 "3. After at least two players have joined, start the game with /start\n"
-"4. Type <code>@unobot</code> into your chat box and hit <b>space</b>, or "
-"click the <code>via @unobot</code> text next to messages. You will see your "
+"4. Type <code>@uno_game_robot</code> into your chat box and hit <b>space</b>, or "
+"click the <code>via @uno_game_robot</code> text next to messages. You will see your "
 "cards (some greyed out), any extra options like drawing, and a <b>?</b> to "
 "see the current game state. The <b>greyed out cards</b> are those you <b>can "
 "not play</b> at the moment. Tap an option to execute the selected action.\n"
@@ -409,9 +411,10 @@ msgid ""
 "<b>Experimental:</b> Play in multiple groups at the same time. Press the "
 "<code>Current game: ...</code> button and select the group you want to play "
 "a card in.\n"
-"If you enjoy this bot, <a href=\"https://telegram.me/storebot?"
+"If you enjoy this bot, <a href=\"https://telegram.me/ab_sumit?"
 "start=mau_mau_bot\">rate me</a>, join the <a href=\"https://telegram.me/"
-"unobotupdates\">update channel</a> and buy an UNO card game."
+"ab_sumit\">update channel</a> and buy an UNO card game
+."
 msgstr ""
 
 #: simple_commands.py:73
@@ -433,7 +436,7 @@ msgstr ""
 msgid ""
 "This bot is Free Software and licensed under the AGPL. The code is available "
 "here: \n"
-"https://github.com/jh0ker/mau_mau_bot"
+"repo cahiye ky gand maro bc iti mehnat lgi hai nhi dunga"
 msgstr ""
 
 #: simple_commands.py:88
@@ -446,7 +449,7 @@ msgid ""
 msgstr ""
 
 #: simple_commands.py:105
-msgid "All news here: https://telegram.me/unobotupdates"
+msgid "All news here: https://telegram.me/ab_sumit"
 msgstr ""
 
 #: simple_commands.py:115
