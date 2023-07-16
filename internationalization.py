@@ -34,7 +34,7 @@ class _Underscore(object):
     """Class to emulate flufl.i18n behaviour, but with plural support"""
     def __init__(self):
         self.translators = (
-            locale: gettext.GNUTranslations(
+            locale = gettext.GNUTranslations(
                 open(gettext.find(
                     GETTEXT_DOMAIN, GETTEXT_DIR, languages=[locale]
                 ), 'rb')
