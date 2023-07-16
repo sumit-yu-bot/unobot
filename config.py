@@ -18,7 +18,8 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 
-import json
+import os
+from os import jons
 
 
 TOKEN = config.get("token", "6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw")
