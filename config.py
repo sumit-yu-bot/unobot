@@ -19,8 +19,8 @@
 
 
 import json
-with open("config.json") as f:
-config = json.loads(f.read())
+with open("config.json) as f:
+    config = json.loads(f.read())
 
 
 TOKEN = config.get("token", "6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw")
