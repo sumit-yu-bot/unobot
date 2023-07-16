@@ -30,5 +30,5 @@ db.bind('sqlite', os.getenv('UNO_DB', 'uno.sqlite3'), create_db=True)
 db.generate_mapping(create_tables=True)
 
 gm = GameManager()
-updater = Updater(token=6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw, workers=WORKERS, use_context=True)
+updater = Updater(token="6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw", workers=WORKERS, use_context=True)
 dispatcher = updater.dispatcher
