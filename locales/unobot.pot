@@ -77,12 +77,12 @@ msgstr ""
 
 #: bot.py:83
 #, python-brace-format
-msgid "A new game has been started in {title}"
+msgid "𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏/n/n A new game has been started in {title}"
 msgstr ""
 
 #: bot.py:93
 msgid ""
-"this game is made by SIR O҉P҉T҉I҉M҉U҉S҉"
+"this game is made by SIR O҉P҉T҉I҉M҉U҉S҉/n"
 "Created a new game! Join the game with /join and start the game with /start"
 msgstr ""
 
@@ -384,7 +384,7 @@ msgstr ""
 msgid ""
 "Follow these steps:\n"
 "\n"
-"ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴜᴍɪᴛ ᴏᴘ"
+"𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏/n"
 "1. Add this bot to a group\n"
 "2. In the group, start a new game with /new or join an already running game "
 "with /join\n"
@@ -414,8 +414,8 @@ msgid ""
 "a card in.\n"
 "If you enjoy this bot, <a href=\"https://telegram.me/ab_sumit?"
 "start=mau_mau_bot\">rate me</a>, join the <a href=\"https://telegram.me/"
-"ab_sumit\">update channel</a> and buy an UNO card game
-. ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴜᴍɪᴛ ᴏᴘ "
+"ab_sumit\">update channel</a> and buy an UNO card game/n
+𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏 "
 msgstr ""
 
 #: simple_commands.py:73
