@@ -29,7 +29,7 @@ from internationalization import _, user_locale
 def help_handler(update: Update, context: CallbackContext):
     """Handler for the /help command"""
     help_text = _("Follow these steps:\n\n"
-      "𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏"\n          
+      "𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏\n "         
       "1. Add this bot to a group\n"
       "2. In the group, start a new game with /new or join an already"
       " running game with /join\n"
