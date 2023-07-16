@@ -64,8 +64,7 @@ class _Underscore(object):
     def __call__(self, singular, plural=None, n=1, locale=None):
         if not locale:
             locale = self.locale_stack[-1]
-
-        if locale not in self.translators.keys():
+            
             if n == 1:
                 return singular
             else:
