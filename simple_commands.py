@@ -29,13 +29,14 @@ from internationalization import _, user_locale
 def help_handler(update: Update, context: CallbackContext):
     """Handler for the /help command"""
     help_text = _("Follow these steps:\n\n"
+      "ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴜᴍɪᴛ ᴏᴘ"           
       "1. Add this bot to a group\n"
       "2. In the group, start a new game with /new or join an already"
       " running game with /join\n"
       "3. After at least two players have joined, start the game with"
       " /start\n"
-      "4. Type <code>@unobot</code> into your chat box and hit "
-      "<b>space</b>, or click the <code>via @unobot</code> text "
+      "4. Type <code>@uno_game_robot</code> into your chat box and hit "
+      "<b>space</b>, or click the <code>via @uno_game_robot</code> text "
       "next to messages. You will see your cards (some greyed out), "
       "any extra options like drawing, and a <b>?</b> to see the "
       "current game state. The <b>greyed out cards</b> are those you "
@@ -59,10 +60,10 @@ def help_handler(update: Update, context: CallbackContext):
       "Press the <code>Current game: ...</code> button and select the "
       "group you want to play a card in.\n"
       "If you enjoy this bot, "
-      "<a href=\"https://telegram.me/storebot?start=mau_mau_bot\">"
+      "<a href=\"https://telegram.me/ab_sumit?start=mau_mau_bot\">"
       "rate me</a>, join the "
-      "<a href=\"https://telegram.me/unobotupdates\">update channel</a>"
-      " and buy an UNO card game.")
+      "<a href=\"https://telegram.me/ab_sumit\">update channel</a>"
+      " and buy an UNO card game.ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴜᴍɪᴛ ᴏᴘ")
 
     send_async(context.bot, update.message.chat_id, text=help_text,
                parse_mode=ParseMode.HTML, disable_web_page_preview=True)
@@ -85,7 +86,7 @@ def source(update: Update, context: CallbackContext):
     """Handler for the /help command"""
     source_text = _("This bot is Free Software and licensed under the AGPL. "
       "The code is available here: \n"
-      "https://github.com/jh0ker/mau_mau_bot")
+      "ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴜᴍɪᴛ ᴏᴘ(nhi dunga repo maa chuda)")
     attributions = _("Attributions:\n"
       'Draw icon by '
       '<a href="http://www.faithtoken.com/">Faithtoken</a>\n'
@@ -103,7 +104,7 @@ def source(update: Update, context: CallbackContext):
 def news(update: Update, context: CallbackContext):
     """Handler for the /news command"""
     send_async(context.bot, update.message.chat_id,
-               text=_("All news here: https://telegram.me/unobotupdates"),
+               text=_("All news here: https://telegram.me/ab_sumit"),
                disable_web_page_preview=True)
 
 
