@@ -19,7 +19,7 @@
 
 
 import json
-with open("config.json") as f:
+with open("config.json.example") as f:
     config = json.loads(f.read())
 
 
