@@ -29,7 +29,7 @@ from internationalization import _, user_locale
 def help_handler(update: Update, context: CallbackContext):
     """Handler for the /help command"""
     help_text = _("Follow these steps:\n\n"
-      "𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏/n"           
+      "𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏"\n          
       "1. Add this bot to a group\n"
       "2. In the group, start a new game with /new or join an already"
       " running game with /join\n"
@@ -63,7 +63,7 @@ def help_handler(update: Update, context: CallbackContext):
       "<a href=\"https://telegram.me/ab_sumit?start=mau_mau_bot\">"
       "rate me</a>, join the "
       "<a href=\"https://telegram.me/ab_sumit\">update channel</a>"
-      " and buy an UNO card game./n/n 𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏")
+      " and buy an UNO card game.\n\n 𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏")
 
     send_async(context.bot, update.message.chat_id, text=help_text,
                parse_mode=ParseMode.HTML, disable_web_page_preview=True)
