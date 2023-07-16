@@ -62,27 +62,27 @@ msgstr ""
 
 #: actions.py:157
 #, python-brace-format
-msgid "Bluff called! Giving 4 cards to {name}"
+msgid "Bluff called! Giving 4 cards to {name}(yeh yeh maze aa gye)"
 msgstr ""
 
 #: actions.py:171
 #, python-brace-format
-msgid "{name1} didn't bluff! Giving 6 cards to {name2}"
+msgid "{name1} didn't bluff! Giving 6 cards to {name2}(aa bhai kesi lagi)"
 msgstr ""
 
 #: bot.py:60
 msgid ""
-"Send this command in a group to be notified when a new game is started there."
+"Send this command in a group to be enotified when a new game is started there."
 msgstr ""
 
 #: bot.py:83
 #, python-brace-format
-msgid "𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏/n/n A new game has been started in {title}"
+msgid "𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏\n\n A new game has been started in {title}"
 msgstr ""
 
 #: bot.py:93
 msgid ""
-"this game is made by SIR O҉P҉T҉I҉M҉U҉S҉/n"
+"this game is made by SIR O҉P҉T҉I҉M҉U҉S҉\n"
 "Created a new game! Join the game with /join and start the game with /start"
 msgstr ""
 
@@ -384,7 +384,7 @@ msgstr ""
 msgid ""
 "Follow these steps:\n"
 "\n"
-"𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏/n"
+"𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏\n"
 "1. Add this bot to a group\n"
 "2. In the group, start a new game with /new or join an already running game "
 "with /join\n"
@@ -414,7 +414,7 @@ msgid ""
 "a card in.\n"
 "If you enjoy this bot, <a href=\"https://telegram.me/ab_sumit?"
 "start=mau_mau_bot\">rate me</a>, join the <a href=\"https://telegram.me/"
-"ab_sumit\">update channel</a> and buy an UNO card game/n
+"ab_sumit\">update channel</a> and buy an UNO card game\n\n
 𝘽𝙊𝙏 𝙈𝘼𝘿𝙀 𝘽𝙔 𝙎𝙐𝙈𝙄𝙏 "
 msgstr ""
 
