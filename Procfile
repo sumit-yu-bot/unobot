@@ -1,2 +1,2 @@
 web: python -m http.server $PORT 
-worker: python3 -m locales
+worker: python3 -m bot.py
