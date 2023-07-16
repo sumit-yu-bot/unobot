@@ -20,10 +20,8 @@
 
 import json
 
-with open("config.json","6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw") as f:
-    config = json.loads(f.read())
 
-TOKEN=config.get("6003788316:AAFrBCh5sY8NIgsv_M7023jskuZDaSYZwvw")
+TOKEN=config.get("token")
 WORKERS=config.get("workers", 32)
 ADMIN_LIST = config.get("admin_list", None)
 OPEN_LOBBY = config.get("open_lobby", True)
